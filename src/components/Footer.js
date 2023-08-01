@@ -35,8 +35,8 @@ const Footer = ()=>{
                     <p>This is MURUGAPPAN ,MERN Stack Web Developer With passion for Creating and Learning </p>
              
                 <div className="social">
-              <h4> <a href="https://github.com/Murugappansrija"> <FaGithub size={30} style={{color : "white", marginRight : "2rem"}}/></a>GitHub</h4>
-               <h4> <a href="https://www.linkedin.com/in/murugappan-s/"><FaLinkedin size={30} style={{color : "white", marginRight : "2rem"}}/> </a>Linked IN</h4>
+                <a href="https://github.com/Murugappansrija">  <h4><FaGithub size={30} style={{color : "white", marginRight : "2rem"}}/>GitHub</h4></a>
+                <a href="https://www.linkedin.com/in/murugappan-s/"> <h4> <FaLinkedin size={30} style={{color : "white", marginRight : "2rem"}}/> Linked IN</h4></a>
                 </div>
                 </div>
 

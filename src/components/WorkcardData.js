@@ -1,9 +1,9 @@
 import pro2 from "../assets/pro2.png"
-import pro3 from "../assets/pro3.png"
+import pro3 from "../assets/webscrapper.png"
 
-import pro4 from "../assets/pro4.png"
+import pro4 from "../assets/todo-app.png"
 
-import pro5 from "../assets/Screenshot (44).png"
+import pro5 from "../assets/blog-app.png"
 
 
 
@@ -19,19 +19,19 @@ const ProjectCardData = [
     },
     {
         imgsrc : pro3,
-        title : "E-commerce Store",
+        title : "Web Scrapper",
         text : "Its a basic E-commerce website, with basic functionalities of  view a product,add to cart, Buy now",
-        view :  "https://stellar-cupcake-61fe72.netlify.app/",
-        source : "https://github.com/Murugappansrija/react-ecommerce-add-to-cart.git"
+        view :  "https://transcendent-cocada-05e41d.netlify.app/",
+        source : "https://github.com/Murugappansrija/wesfn.git"
 
 
     },
     {
         imgsrc : pro4,
-        title : "Thirukural APp",
+        title : "Blog App",
         text : "Its a thirukural web app using Thirukural API",
-        view :  "https://murugappansrija.github.io/thirukural/",
-        source : "https://github.com/Murugappansrija/thirukural.git"
+        view :  "https://lambent-taiyaki-76bd38.netlify.app/",
+        source : "https://github.com/Murugappansrija/client.git"
 
 
     },

@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import "./Mainimage.css"
 import React from "react"
-import introimage from "../assets/james-wheeler-ZOA-cqKuJAA-unsplash.jpg"
+import introimage from "../assets/philip-myrtorp-pyeBd1l8Guo-unsplash.jpg"
 
 const Mainimage =  ()=>{
     return(

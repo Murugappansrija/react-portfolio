@@ -20,7 +20,7 @@ const ProjectCardData = [
     {
         imgsrc : pro3,
         title : "Web Scrapper",
-        text : "Its a basic E-commerce website, with basic functionalities of  view a product,add to cart, Buy now",
+        text : "The web scraper extracts data from Amazon and Flipkart, offering valuable insights and competitive analysis",
         view :  "https://transcendent-cocada-05e41d.netlify.app/",
         source : "https://github.com/Murugappansrija/wesfn.git"
 
@@ -29,7 +29,7 @@ const ProjectCardData = [
     {
         imgsrc : pro4,
         title : "Blog App",
-        text : "Its a thirukural web app using Thirukural API",
+        text : "This blog app with user authentication, enabling blog creation, updates, and deletions, while also providing access to view other users' blogs",
         view :  "https://lambent-taiyaki-76bd38.netlify.app/",
         source : "https://github.com/Murugappansrija/client.git"
 
@@ -37,8 +37,8 @@ const ProjectCardData = [
     },
     {
         imgsrc : pro5,
-        title : "NIKE STORE",
-        text : "Display our products in online",
+        title : "To-Do App",
+        text : "With this to-do app, users can efficiently manage their daily tasks, create lists, update, and delete tasks",
         view :  "https://64c8a4c156edae4530c28fc6--frabjous-pony-d5b6a6.netlify.app/",
         source : "https://github.com/Murugappansrija/nike-store.git"
 

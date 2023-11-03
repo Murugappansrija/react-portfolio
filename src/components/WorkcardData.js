@@ -30,8 +30,8 @@ const ProjectCardData = [
         imgsrc : pro4,
         title : "To-Do App",
         text : " With this to-do app, users can efficiently manage their daily tasks, create lists, update, and delete tasks.",
-        view :  "https://lambent-taiyaki-76bd38.netlify.app/",
-        source : "https://github.com/Murugappansrija/client.git"
+        view :  "https://lustrous-basbousa-0ed266.netlify.app/",
+        source : "https://github.com/Murugappansrija/client-todo"
 
 
     },
@@ -39,8 +39,8 @@ const ProjectCardData = [
         imgsrc : pro5,
         title : " Blog App",
         text : "This blog app with user authentication, enabling blog creation, updates, and deletions, while also providing access to view other users' blogs.",
-        view :  "https://64c8a4c156edae4530c28fc6--frabjous-pony-d5b6a6.netlify.app/",
-        source : "https://github.com/Murugappansrija/nike-store.git"
+        view :  "https://lambent-taiyaki-76bd38.netlify.app/",
+        source : "https://github.com/Murugappansrija/client"
 
        
     }

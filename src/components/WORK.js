@@ -14,7 +14,9 @@ const Work =()=>{
                 <Mywork
                 key ={ind}
                 imgsrc = {val.imgsrc}
+
                 title ={val.title}
+                Skills={val.skills}
                 text = {val.text}
                 view = {val.view}
                 source = {val.source}

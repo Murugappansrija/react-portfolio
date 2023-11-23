@@ -1,7 +1,7 @@
 import pro2 from "../assets/pro2.png"
 import pro3 from "../assets/webscrapper.png"
 
-import pro4 from "../assets/todo-app.png"
+import pro4 from "../assets/noteapp.png"
 
 import pro5 from "../assets/blog-app.png"
 
@@ -30,11 +30,12 @@ const ProjectCardData = [
     },
     {
         imgsrc : pro4,
-        title : "To-Do App",
+        title : "Notes app",
         skills: "React js, Expressjs, MongoDB",
         text : " With this to-do app, users can efficiently manage their daily tasks, create lists, update, and delete tasks.",
-        view :  "https://lustrous-basbousa-0ed266.netlify.app/",
-        source : "https://github.com/Murugappansrija/client-todo"
+        view :  "https://main--lovely-salmiakki-5d5d53.netlify.app/",
+        
+        source : "https://github.com/Murugappansrija/frontend-notes.git"
 
 
     },

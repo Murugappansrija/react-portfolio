@@ -1,7 +1,9 @@
-import { Link } from "react-router-dom"
+import { Link,NavLink } from "react-router-dom"
 import "./Mainimage.css"
 import React from "react"
 import introimage from "../assets/philip-myrtorp-pyeBd1l8Guo-unsplash.jpg"
+import resume from '../assets/s-murugappan.pdf'
+import { FaDownload } from "react-icons/fa";
 
 const Mainimage =  ()=>{
     return(
@@ -15,8 +17,17 @@ const Mainimage =  ()=>{
             <h1>FULLSTACK WEB DEVELOPER</h1>
         <div >
             <Link to={"/project"} className="btn">PROJECTS</Link>
-            <Link to={"/contact"} className="btn btn-light">CONTACT</Link>
-         
+            {/* <Link to={res} className="btn btn-light">CONTACT</Link> */}
+            <NavLink to={resume} target="blank">
+            <button class="btn">
+              {" "}
+              download CV{" "}
+              <FaDownload
+                size={16}
+                style={{ color: "#fff", marginRight: "1rem" }}
+              />
+               </button>
+          </NavLink>
         </div>
         </div>
         </div>
